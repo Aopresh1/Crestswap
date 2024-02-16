@@ -4,6 +4,8 @@
 
 1.Click 'Add Liquidity'.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-16 at 8.57.41 PM.png" alt=""><figcaption></figcaption></figure>
+
 2.Select the tokens you wish to add liquidity and enter the amount.
 
 3.Check the details, and click 'Supply'.
