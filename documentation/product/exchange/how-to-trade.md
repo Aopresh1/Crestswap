@@ -9,13 +9,19 @@ Trading on the CrestSwap exchange:
 1. Visit the exchange page available [here](https://zdex.crestswap.co).
 2. Connect your zetachain compatible wallet by selecting "Connect Wallet" (alternatively, you can connect via the option located in the top right-hand corner).
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-16 at 8.49.02 PM.png" alt=""><figcaption></figcaption></figure>
+
 3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is ZETA.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-16 at 8.52.31 PM.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Regardless of the token you select, it's essential to ensure that you possess a sufficient amount to trade with. Your balance is displayed above the token dropdown menu.
 
 4\. Select the desired token you wish to trade to from the "To" section, as depicted above. Then, input the desired amount for your "To" currency by clicking inside the input box.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-16 at 8.53.35 PM.png" alt=""><figcaption></figcaption></figure>
 
 
 
